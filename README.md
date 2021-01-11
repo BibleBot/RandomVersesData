@@ -1,2 +1,2 @@
-# truly-random-bible-verse
-A truly random Bible verse generator, no 'bad' verses left out. Uses the King James Version.
+# random-verses-data
+All 31,102 verses of the KJV in text. Sourced from [@qtk](https://github.com/qtk)'s [truly-random-bible-verse](https://github.com/qtk/truly-random-bible-verse). Their code is licensed under the GPLv3, but we are not using any of their code and the KJV is public domain.
